@@ -1,1 +1,1 @@
-fskfhk
+cout<<"hello world">>
